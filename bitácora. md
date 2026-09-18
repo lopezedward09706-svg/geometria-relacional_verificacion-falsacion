@@ -26,8 +26,7 @@ Cada sesión se documenta al cerrar su objetivo. No se editan entradas pasadas: 
 - Veredictos `[VERIFICADO]` y `[FALSADO]` heredados del corpus **no se aceptan automáticamente**. Todo veredicto se emite desde cero en este repositorio.
 - Enunciados incompletos detectados en el checklist original: E6, E11 (marcados con `[...]`). Se solicitarán al autor cuando corresponda su verificación.
 
-**Siguiente paso propuesto:** Sesión 001 — E16 (Seis Roles Canónicos) + E19 (Deuda de Información).
-
+**Siguiente paso propuesto:** Sesión 001 — E01
 ---
 
 *Fin de sesiones registradas.*
