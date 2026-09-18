@@ -1,0 +1,33 @@
+# Bitácora — RG-108
+
+Registro cronológico de sesiones de verificación y falsación.
+
+Cada sesión se documenta al cerrar su objetivo. No se editan entradas pasadas: si algo cambia, se agrega una nueva entrada que lo señale.
+
+---
+
+## Sesión 000 — 17 sep 2026 — Setup del repositorio
+
+**Duración:** ~30 min
+**Ecuaciones trabajadas:** ninguna
+**Objetivo:** dejar el repositorio operativo antes de arrancar verificaciones.
+
+**Acciones:**
+- Creación del repositorio `geometria-relacional_verificacion-falsacion`.
+- `README.md` con método, semántica de veredictos, fuentes y estructura.
+- `checklist.md` con las 108 ecuaciones en estado inicial `[POSTULADO]`.
+- `.gitignore` y `LICENSE` (MIT).
+- Estructura de carpetas: `equations/`, `code/`, `figures/`, `data/`.
+- `bitacora.md` (este archivo).
+
+**Notas:**
+- Contradicción latente identificada entre E59 y E60 (α⁻¹). Se resolverá al llegar a Fase 13. Registrada como C-001 en `checklist.md`.
+- E93 marcado como `[PENDIENTE]` en lugar de heredar `[FALSADO]` del corpus. Requiere re-verificación bajo el método de este repositorio. Registrado como C-002 en `checklist.md`.
+- Veredictos `[VERIFICADO]` y `[FALSADO]` heredados del corpus **no se aceptan automáticamente**. Todo veredicto se emite desde cero en este repositorio.
+- Enunciados incompletos detectados en el checklist original: E6, E11 (marcados con `[...]`). Se solicitarán al autor cuando corresponda su verificación.
+
+**Siguiente paso propuesto:** Sesión 001 — E16 (Seis Roles Canónicos) + E19 (Deuda de Información).
+
+---
+
+*Fin de sesiones registradas.*
