@@ -1,3 +1,8 @@
+
+**"RG" **
+
+**Estado:** 0 / 108 ecuaciones cerradas · Última actualización: 17 sep 2026
+
 Verificación y falsación sistemática del corpus Geometría Relacional (RG): 108 ecuaciones clasificadas como postulados. Método por ecuación: enunciado, abstract técnico, verificación matemática, contraste con CODATA/PDG/Planck, visualización y veredicto. Registro público de cada paso.
 
 ---
@@ -126,15 +131,26 @@ RG-108/
 
 Cinco volúmenes, 30 fases, 108 ecuaciones. Estado actualizado en [`checklist.md`](./checklist.md).
 
-| Volumen | Fases | Ecuaciones | Rango |
-|---|---|---|---|
-| I — Ontología del Silencio | 1–6 | 34 | E1–E34 |
-| II — Estructura de la Materia | 7–12 | 24 | E35–E58 |
-| III — Constantes Fundamentales | 13–18 | 11 | E59–E69 |
-| IV — Cosmología y Gravedad | 19–24 | 18 | E70–E87 |
-| V — Observador y Predicciones | 25–30 | 21 | E88–E108 |
+| Volumen | Fases | Ecuaciones | Rango | Cerradas |
+|---|---|---|---|---|
+| I — Ontología del Silencio | 1–6 | 34 | E1–E34 | 0 / 34 |
+| II — Estructura de la Materia | 7–12 | 24 | E35–E58 | 0 / 24 |
+| III — Constantes Fundamentales | 13–18 | 11 | E59–E69 | 0 / 11 |
+| IV — Cosmología y Gravedad | 19–24 | 18 | E70–E87 | 0 / 18 |
+| V — Observador y Predicciones | 25–30 | 21 | E88–E108 | 0 / 21 |
 
 Consulta [`checklist.md`](./checklist.md) para el estado individual de cada ecuación.
+
+### Contradicciones latentes
+
+Detectadas durante el setup, pendientes de resolver en su fase correspondiente:
+
+| ID | Ecuaciones | Descripción | Resolver en |
+|---|---|---|---|
+| C-001 | E59 vs E60 | `α⁻¹` incompatible a nivel numérico (~0.037 de discrepancia). | Fase 13 |
+| C-002 | E93 | Veredicto `[FALSADO]` heredado sin verificación previa en este repo. | Fase 27 |
+
+Registro completo en [`checklist.md`](./checklist.md) y [`bitacora.md`](./bitacora.md).
 
 ---
 
@@ -162,8 +178,19 @@ Convenciones
 · Tags: sesion-001, sesion-002, ...
 · Archivos de ecuación: Exxx_nombre_descriptivo.md
 · Archivos de código: Exxx_visualization.py
+· Actualización de bitácora: solo se agrega al final, nunca se edita lo previo.
 
 ---
 
 Licencia
-MIT
+
+MIT. Ver LICENSE.
+
+---
+
+Compilación inicial: 17 de septiembre de 2026.
+
+```
+
+---
+
