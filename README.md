@@ -13,6 +13,20 @@ Verificación y falsación sistemática del corpus Geometría Relacional (RG): 1
 ORCID: [0009-0009-0717-5536](https://orcid.org/0009-0009-0717-5536)
 GitHub: [@lopezedward09706-svg](https://github.com/lopezedward09706-svg)
 
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0009-0717-5536"
+     target="orcid.widget" 
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0009-0717-5536
+    </a>
+    
 Asistencia técnica: BRO (compañero de investigación en física teórica).
 
 ---
