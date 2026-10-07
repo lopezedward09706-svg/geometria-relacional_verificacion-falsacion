@@ -10,7 +10,8 @@ Verificación y falsación sistemática del corpus Geometría Relacional (RG): 1
 ## Autor
 
 **Edward P. López** (El Arquitecto)
-ORCID: [0009-0009-0717-5536](https://orcid.org/0009-0009-0717-5536)    <a
+ORCID: (https://orcid.org/0009-0009-0717-5536)    
+   <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0009-0009-0717-5536"
