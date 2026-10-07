@@ -10,8 +10,92 @@ Verificación y falsación sistemática del corpus Geometría Relacional (RG): 1
 ## Autor
 
 **Edward P. López** (El Arquitecto)
-ORCID: [0009-0009-0717-5536](https://orcid.org/0009-0009-0717-5536)
+ORCID: [0009-0009-0717-5536](https://orcid.org/0009-0009-0717-5536)    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0009-0717-5536"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0009-0717-5536
+    </a>
 GitHub: [@lopezedward09706-svg](https://github.com/lopezedward09706-svg)
+
+## Fuentes y repositorios de referencia
+
+Material de partida del corpus. Se citan como origen, no como respaldo.
+
+### Corpus RG
+- [geometria-relacional-rg](https://github.com/lopezedward09706-svg/geometria-relacional-rg)
+- [geometria-relacional-rg-](https://github.com/lopezedward09706-svg/geometria-relacional-rg-)
+- [Geometr-a-Relacional-RG-libro-maestro-](https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-libro-maestro-)
+- [Geometr-a-Relacional-RG-RQNT-Y-ABC-](https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-RQNT-Y-ABC-)
+- [CENTRO-DE-INFORMACION-TODO-EL-PROCESO-SIN-ESTRUCTURA-](https://github.com/lopezedward09706-svg/CENTRO-DE-INFORMACION-TODO-EL-PROCESO-SIN-ESTRUCTURA-)
+
+### R-QNT (Relational Quantum Network Theory)
+- [R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory](https://github.com/lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory)
+- [RQNTV1.0](https://github.com/lopezedward09706-svg/RQNTV1.0)
+- [RQNT-THEORY-EXPLARE-](https://github.com/lopezedward09706-svg/RQNT-THEORY-EXPLARE-)
+- [LAB-RQNT](https://github.com/lopezedward09706-svg/LAB-RQNT)
+- [Laboratorio-Digital-R-QNT](https://github.com/lopezedward09706-svg/Laboratorio-Digital-R-QNT)
+
+### Proyecto ABC
+- [ABC2](https://github.com/lopezedward09706-svg/ABC2)
+- [ABC-QUANTUM-](https://github.com/lopezedward09706-svg/ABC-QUANTUM-)
+- [PROYECTO-ABC](https://github.com/lopezedward09706-svg/PROYECTO-ABC)
+- [Proyecto-ABC-v2.0---Reality-Dashboard](https://github.com/lopezedward09706-svg/Proyecto-ABC-v2.0---Reality-Dashboard)
+- [ABC-Theory-Quantum-Gravity-Simulator](https://github.com/lopezedward09706-svg/ABC-Theory-Quantum-Gravity-Simulator)
+- [NODOS-ABC](https://github.com/lopezedward09706-svg/NODOS-ABC)
+- [communityABC](https://github.com/lopezedward09706-svg/communityABC)
+
+### Perfil y otros
+- [Perfil GitHub](https://github.com/lopezedward09706-svg/Edward-P.-L-pez-0009-0009-0717-5536)
+- [Academia.edu](https://independent.academia.edu/EdwardLopez143)
+- [ANALISIS-DE-DATOS-](https://github.com/lopezedward09706-svg/ANALISIS-DE-DATOS-)
+- [Geometr-a-Termogravitacional-cuantica](https://github.com/lopezedward09706-svg/Geometr-a-Termogravitacional-cuantica)
+- [PEEREYE-3RE3-](https://github.com/lopezedward09706-svg/PEEREYE-3RE3-)
+
+---gh repo clone lopezedward09706-svg/Geometr-a-Relacional-RG-libro-maestro-
+https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-libro-maestro-.git
+git@github.com:lopezedward09706-svg/Geometr-a-Relacional-RG-libro-maestro-.git
+https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-/tree/98d168de90330296c40e4325d78ed4b4f5e1b273
+https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-
+repo:lopezedward09706-svg@225665342/Geometr-a-_Relacional-Repositorio-completo-@1406972239
+proceso formal de la derivación matemática de la constante de Planck \(\hbar \).
+https://github.com/lopezedward09706-svg/geometria-relacional_verificacion-falsacion.git
+git@github.com:lopezedward09706-svg/geometria-relacional_verificacion-falsacion.git
+gh repo clone lopezedward09706-svg/geometria-relacional_verificacion-falsacion
+gh repo clone lopezedward09706-svg/geometria-relacional-rg
+git@github.com:lopezedward09706-svg/geometria-relacional-rg.git
+https://github.com/lopezedward09706-svg/geometria-relacional-rg.git
+gh repo clone lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory
+git@github.com:lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory.git
+https://github.com/lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory.git
+gh repo clone lopezedward09706-svg/Geometr-a-Relacional-RG-RQNT-Y-ABC-
+git@github.com:lopezedward09706-svg/Geometr-a-Relacional-RG-RQNT-Y-ABC-.git
+https://github.com/lopezedward09706-svg/Geometr-a-Relacional-RG-RQNT-Y-ABC-.git
+gh repo clone lopezedward09706-svg/RGEPL
+git@github.com:lopezedward09706-svg/RGEPL.git
+https://github.com/lopezedward09706-svg/RGEPL.git
+gh repo clone lopezedward09706-svg/Edward-P-rez-L-pez
+git@github.com:lopezedward09706-svg/Edward-P-rez-L-pez.git
+https://github.com/lopezedward09706-svg/Edward-P-rez-L-pez.git
+https://github.com/lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-.git
+git@github.com:lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-.git
+gh repo clone lopezedward09706-svg/Geometr-a-_Relacional-Repositorio-completo-
+gh repo clone lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory
+git@github.com:lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory.git
+https://github.com/lopezedward09706-svg/R-QNT-Emergent-Gravity-o-Relational-Quantum-Network-Theory.git
+gh repo clone lopezedward09706-svg/geometria-relacional-rg
+git@github.com:lopezedward09706-svg/geometria-relacional-rg.git
+https://github.com/lopezedward09706-svg/geometria-relacional-rg.git
+
+
+
 
 Asistencia técnica: BRO (compañero de investigación en física teórica).
 
